@@ -1,0 +1,12 @@
+<html>
+<head>
+<body>
+<style>
+div{
+color:red;
+background-color:yellowe;
+margin:10px;
+
+</body>
+</head>
+</html>
