@@ -14,7 +14,7 @@ class ArrayList1{
 
 	System.out.println(list.get(2));
 
-	list.set(2,"muva");
+	list.set(2,"THAH");
 	System.out.println(list);
 
 	
@@ -32,3 +32,4 @@ class ArrayList1{
 			System.out.println(list.isEmpty());
 }
 	}
+
